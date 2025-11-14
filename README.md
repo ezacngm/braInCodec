@@ -17,7 +17,7 @@ Notes:
 
 2. In fMRI terminology, decoder means a function that predicts seen stimuli from brain activations. (network takes in brain activations, and predicts an image).
 
-3. Model checkpoint is provided for 1,2,5 as training subjects, 7 as unseen subject.
+3. Model checkpoint is provided on Google Drive for 1,2,5 as training subjects, 7 as unseen subject [here][https://drive.google.com/file/d/1hoj2BYgKYs_s70-hy2knMCM6ap3GOl0D/view?usp=drive_link].
 
 The organization of the code is as such:
 
