@@ -9,7 +9,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from tqdm import tqdm
 from torch.utils.data import DataLoader
-from models.model_current import ImageFeatureRegressionModel
+from models.model import ImageFeatureRegressionModel
 from dataset.multisubj_dataset import MultiSubjectDataset, Context_VoxelSampler
 from accelerate import Accelerator
 from accelerate.utils import DistributedDataParallelKwargs
