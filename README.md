@@ -1,5 +1,5 @@
 # Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding (CVPR 2026)
-
+[arXiv](http://arxiv.org/abs/2604.08537)
 <p align="center">
   <img src="images/teaser.png" alt="braInCodec Teaser" width="80%">
 </p>
